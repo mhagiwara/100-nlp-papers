@@ -4,7 +4,7 @@ This is a list of 100 important natural language processing (NLP) papers that se
 
 This list is originally based on the answers for a Quora question I posted years ago: [What are the most important research papers which all NLP studnets should definitely read?](https://www.quora.com/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read). I thank all the people who contributed to the original post.
 
-This list is far from complete or objective, and is evolving, as important papers are being published year after year. Please let me know via pull requests and issues if anything is missing.
+This list is far from complete or objective, and is evolving, as important papers are being published year after year. Please let me know via [pull requests](https://github.com/mhagiwara/100-nlp-papers/pulls) and [issues](https://github.com/mhagiwara/100-nlp-papers/issues) if anything is missing.
 
 Also, I didn't try to include links to original papers since it is a lot of work to keep dead links up to date. I'm sure you can find most (if not all) of the papers listed here via a single Google search by their titles.
 
