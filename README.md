@@ -102,6 +102,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
 
+* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
+
 * Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
 
 * Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
