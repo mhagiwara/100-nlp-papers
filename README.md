@@ -101,3 +101,5 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
 
 * Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
+
+* Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
