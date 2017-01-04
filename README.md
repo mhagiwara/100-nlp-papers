@@ -44,6 +44,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Patrick Pantel and Dekang Lin, Discovering Word Senses from Text, SIGKDD, 2002.
 
+* Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.
+
 ## Machine Learning
 
 * John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
@@ -71,6 +73,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Kevin Knight: A Statistical MT Tutorial Workbook, 1999.
 
 * Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.
+
+* Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.
 
 * Franz J Och and Hermann Ney: The Alignment-Template Approach to Statistical Machine Translation, Computational Linguistics, 2004.
 
