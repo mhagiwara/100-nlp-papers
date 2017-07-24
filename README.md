@@ -66,7 +66,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.
 
-* Knight Knight, Graehl Jonathan. Machine Transliteration. Computational Linguistics, 1992.
+* Kevin Knight, Graehl Jonathan. Machine Transliteration. Computational Linguistics, 1992.
 
 * Dekai Wu: Inversion Transduction Grammars and the Bilingual Parsing of Parallel Corpora, Computational Linguistics, 1997.
 
