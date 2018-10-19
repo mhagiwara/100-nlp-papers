@@ -20,6 +20,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
 
+* Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.
+
 * Matthew E. Peters, et al: Deep contextualized word representations, 2018.
 
 ## Segmentation, Tagging, Parsing
@@ -101,6 +103,10 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
 
 * Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
+
+* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
+
+* Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
 
 ## Neural Models
 
