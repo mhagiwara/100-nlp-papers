@@ -16,7 +16,11 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.
 
-* Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney.
+* Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.
+
+* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
+
+* Matthew E. Peters, et al: Deep contextualized word representations, 2018.
 
 ## Segmentation, Tagging, Parsing
 
@@ -90,19 +94,19 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Wen-tau Yih et al. Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
 
-## Neural Models
-
-* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
-
-* Richard Socher, et al.: Dynamic pooling and unfolding recursive autoencoders for paraphrase detection, NIPS 2011.
-
-* Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
+## Word Embeddings
 
 * Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
 
 * Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
 
 * Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
+
+## Neural Models
+
+* Richard Socher, et al.: Dynamic pooling and unfolding recursive autoencoders for paraphrase detection, NIPS 2011.
+
+* Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
 
 * Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
 
