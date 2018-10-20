@@ -1,4 +1,4 @@
-# 100 Must-Read NLProc Papers
+# 100 Must-Read NLP Papers
 
 This is a list of 100 important natural language processing (NLP) papers that serious students and researchers working in the field should probably know about and read.
 
@@ -8,7 +8,7 @@ This list is far from complete or objective, and is evolving, as important paper
 
 Also, I didn't try to include links to original papers since it is a lot of work to keep dead links up to date. I'm sure you can find most (if not all) of the papers listed here via a single Google search by their titles.
 
-A paper doesn't have to be a peer-reviewed conference/journal paper to appear here. We also include tutorial/survey-style papers that are often easier to understand than the original papers.
+A paper doesn't have to be a peer-reviewed conference/journal paper to appear here. We also include tutorial/survey-style papers and blog posts that are often easier to understand than the original papers.
 
 ## Language Modeling
 
@@ -42,6 +42,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Daniel Andor et al.: Globally Normalized Transition-Based Neural Networks, 2016.
 
+* Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.
+
 ## Information Extraction
 
 * Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
@@ -68,7 +70,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.
 
-## Machine Translation & Transliteration
+## Machine Translation & Transliteration, Sequence-to-Sequence Models
 
 * Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.
 
@@ -85,6 +87,21 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Franz J Och and Hermann Ney: The Alignment-Template Approach to Statistical Machine Translation, Computational Linguistics, 2004.
 
 * David Chiang. A Hierarchical Phrase-Based Model for Statistical Machine Translation, ACL 2005.
+
+* Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
+
+* Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
+
+* Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014.
+
+* Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, 2015.
+
+* Yonghui Wu, et al.: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.
+
+* Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.
+
+* Ashish Vaswani, et al.: Attention Is All You Need, 2017.
+
 
 ## Automatic Text Summarization
 
@@ -110,12 +127,14 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Neural Models
 
-* Richard Socher, et al.: Dynamic pooling and unfolding recursive autoencoders for paraphrase detection, NIPS 2011.
+* Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
 
 * Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
 
-* Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
-
-* Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
+* Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.
 
 * Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
+
+* Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
+
+* Christopher Olah: Understanding LSTM Networks, 2015.
