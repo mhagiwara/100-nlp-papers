@@ -10,6 +10,20 @@ Also, I didn't try to include links to original papers since it is a lot of work
 
 A paper doesn't have to be a peer-reviewed conference/journal paper to appear here. We also include tutorial/survey-style papers and blog posts that are often easier to understand than the original papers.
 
+## Clustering & Word Embeddings
+
+* Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
+
+* Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
+
+* Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
+
+* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
+
+* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
+
+* Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
+
 ## Language Modeling
 
 * Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.
@@ -21,6 +35,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
 
 * Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.
+
+* Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.
 
 * Matthew E. Peters, et al: Deep contextualized word representations, 2018.
 
@@ -112,18 +128,6 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Ryan McDonald: A Study of Global Inference Algorithms in Multi-Document Summarization, ECIR 2007.
 
 * Wen-tau Yih et al. Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
-
-## Word Embeddings
-
-* Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
-
-* Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
-
-* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
-
-* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
-
-* Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
 
 ## Neural Models
 
