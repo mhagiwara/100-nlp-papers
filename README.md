@@ -38,8 +38,6 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.
 
-* Matthew E. Peters, et al: Deep contextualized word representations, 2018.
-
 ## Segmentation, Tagging, Parsing
 
 * Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.
@@ -71,6 +69,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.
 
 ## Machine Learning
+
+* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
 
 * John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
 
@@ -142,3 +142,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
 
 * Christopher Olah: Understanding LSTM Networks, 2015.
+
+* Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
+
+* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
