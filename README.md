@@ -127,7 +127,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Ryan McDonald: A Study of Global Inference Algorithms in Multi-Document Summarization, ECIR 2007.
 
-* Wen-tau Yih et al. Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
+* Wen-tau Yih et al.: Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
+
+* Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.
 
 ## Neural Models
 
