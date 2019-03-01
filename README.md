@@ -24,6 +24,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
 
+* Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.
+
 ## Language Modeling
 
 * Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.
