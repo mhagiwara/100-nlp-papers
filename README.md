@@ -30,6 +30,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.
 
+* Stanley F. Chen and Joshua Goodman: An Empirical Study of Smoothing Techniques for Language Modeling, ACL 2006.
+
 * Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.
 
 * Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.
