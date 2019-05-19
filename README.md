@@ -62,7 +62,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.
 
-## Information Extraction
+## Sequential Labeling & Information Extraction
 
 * Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
 
@@ -71,6 +71,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Patrick Pantel and Dekang Lin, Discovering Word Senses from Text, SIGKDD, 2002.
 
 * Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.
+
+* Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.
 
 ## Machine Learning
 
