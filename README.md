@@ -102,6 +102,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Kevin Knight: A Statistical MT Tutorial Workbook, 1999.
 
+* Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002.
+
 * Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.
 
 * Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.
