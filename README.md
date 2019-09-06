@@ -156,3 +156,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
 
 * Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
+
+## Generation, Reinforcement Learning
+
+* Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.
+
+* Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.
