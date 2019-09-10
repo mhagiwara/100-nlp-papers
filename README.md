@@ -120,6 +120,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, 2015.
 
+* Rico Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units. ACL 2016.
+
 * Yonghui Wu, et al.: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.
 
 * Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.
@@ -160,5 +162,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 ## Generation, Reinforcement Learning
 
 * Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.
+
+* Marc’Aurelio Ranzato et al.: Sequence Level Training with Recurrent Neural Networks. ICLR 2016.
 
 * Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.
