@@ -141,6 +141,12 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.
 
+## Question Answering and Machine Comprehension
+
+* Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.
+
+* Minjoon Soo et al.: Bi-Directional Attention Flow for Machine Comprehension. ICLR 2015.
+
 ## Neural Models
 
 * Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
