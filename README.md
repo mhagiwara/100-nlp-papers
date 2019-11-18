@@ -74,6 +74,14 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.
 
+* Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.
+
+## Coreference Resolution
+
+* Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.
+
+* Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.
+
 ## Machine Learning
 
 * Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
