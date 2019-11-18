@@ -10,6 +10,38 @@ Also, I didn't try to include links to original papers since it is a lot of work
 
 A paper doesn't have to be a peer-reviewed conference/journal paper to appear here. We also include tutorial/survey-style papers and blog posts that are often easier to understand than the original papers.
 
+## Machine Learning
+
+* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
+
+* John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
+
+* Charles Sutton, Andrew McCallum. An Introduction to Conditional Random Fields for Relational Learning.
+
+* Kamal Nigam, et al.: Text Classification from Labeled and Unlabeled Documents using EM. Machine Learning, 1999.
+
+* Kevin Knight: Bayesian Inference with Tears, 2009.
+
+* Marco Tulio Ribeiro et al.: "Why Should I Trust You?": Explaining the Predictions of Any Classifier, KDD 2016.
+
+## Neural Models
+
+* Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
+
+* Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
+
+* Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.
+
+* Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
+
+* Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
+
+* Christopher Olah: Understanding LSTM Networks, 2015.
+
+* Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
+
+* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
+
 ## Clustering & Word Embeddings
 
 * Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
@@ -25,6 +57,12 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
 
 * Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.
+
+## Topic Models
+
+* Thomas Hofmann: Probabilistic Latent Semantic Indexing, SIGIR 1999.
+
+* David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.
 
 ## Language Modeling
 
@@ -76,30 +114,6 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.
 
-## Coreference Resolution
-
-* Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.
-
-* Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.
-
-## Machine Learning
-
-* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
-
-* John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
-
-* Charles Sutton, Andrew McCallum. An Introduction to Conditional Random Fields for Relational Learning.
-
-* Kamal Nigam, et al.: Text Classification from Labeled and Unlabeled Documents using EM. Machine Learning, 1999.
-
-* Kevin Knight: Bayesian Inference with Tears, 2009.
-
-## Topic Models
-
-* Thomas Hofmann: Probabilistic Latent Semantic Indexing, SIGIR 1999.
-
-* David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.
-
 ## Machine Translation & Transliteration, Sequence-to-Sequence Models
 
 * Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.
@@ -136,6 +150,11 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Ashish Vaswani, et al.: Attention Is All You Need, 2017.
 
+## Coreference Resolution
+
+* Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.
+
+* Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.
 
 ## Automatic Text Summarization
 
@@ -154,24 +173,6 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.
 
 * Minjoon Soo et al.: Bi-Directional Attention Flow for Machine Comprehension. ICLR 2015.
-
-## Neural Models
-
-* Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
-
-* Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
-
-* Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.
-
-* Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
-
-* Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
-
-* Christopher Olah: Understanding LSTM Networks, 2015.
-
-* Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
-
-* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
 
 ## Generation, Reinforcement Learning
 
