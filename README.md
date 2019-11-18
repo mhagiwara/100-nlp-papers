@@ -1,5 +1,7 @@
 # 100 Must-Read NLP Papers
 
+🎉**NEWS**: Want to learn NLP in more depth? Join fellow NLP practitioners in our private Slack group. You can also get your name and logo listed on this page by sponsoring me. You can find more details on the [Patreon page](https://www.patreon.com/octanove).
+
 This is a list of 100 important natural language processing (NLP) papers that serious students and researchers working in the field should probably know about and read. This list is compiled by [Masato Hagiwara](http://masatohagiwara.net/). I welcome any feedback on this list.
 
 This list is originally based on the answers for a Quora question I posted years ago: [What are the most important research papers which all NLP studnets should definitely read?](https://www.quora.com/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read). I thank all the people who contributed to the original post.
