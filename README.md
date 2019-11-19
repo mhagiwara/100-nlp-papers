@@ -1,6 +1,10 @@
 # 100 Must-Read NLP Papers
 
+[Become a sponsor](https://www.patreon.com/octanove)
+
 🎉**NEWS**: Want to learn NLP in more depth? Join fellow NLP practitioners in our private Slack group. You can also get your name and logo listed on this page by sponsoring me. You can find more details on the [Patreon page](https://www.patreon.com/octanove).
+
+---
 
 This is a list of 100 important natural language processing (NLP) papers that serious students and researchers working in the field should probably know about and read. This list is compiled by [Masato Hagiwara](http://masatohagiwara.net/). I welcome any feedback on this list.
 
@@ -87,6 +91,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.
 
 * Adwait Ratnaparkhi: A Maximum Entropy Model for Part-Of-Speech Tagging, EMNLP 1996.
+
+* Eugene Charniak: A Maximum-Entropy-Inspired Parser, NAACL 2000.
 
 * Michael Collins: Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms, EMNLP 2002.
 
