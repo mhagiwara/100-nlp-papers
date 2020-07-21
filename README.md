@@ -183,3 +183,17 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Marc’Aurelio Ranzato et al.: Sequence Level Training with Recurrent Neural Networks. ICLR 2016.
 
 * Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.
+
+## Application of Evolutionary Algorithms in NLP
+
+* Lars Bungum, Bjorn Gamback et al : Evolutionary Algorithms in Natural Language Processing
+
+* L. Araujo et al : Symbiosis of evolutionary techniques and statistical natural language processing, IEEE Transactions on Evolutionary Computation ( Volume: 8 , Issue: 1 , Feb. 2004 )
+
+* Enrique Alba ,Gabriel Luque, Lourdes Araujo et al : Natural language tagging with genetic algorithms, Information Processing Letters
+
+* O. Cordón, E. Herrera-Viedma, C. López-Pujalte, M. Luque, C. Zarco et al : A review on the application of evolutionary computation to information retrieval, International Journal of Approximate Reasoning
+
+* Bill Keller, Rudi Lutz et al : Evolutionary induction of stochastic context free grammars ,Evolutionary induction of stochastic context free grammars
+
+* Manish Sarkar, B. Yegnanarayana ,Deepak Khemani et al : A clustering algorithm using an evolutionary programming-based approach, Pattern Recognition Letters
