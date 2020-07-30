@@ -93,3 +93,7 @@ Eugene Charniak：最大熵启发式解析器，NAACL 2000。
 * Dan Klein和Christopher Manning：准确的非词法分析，ACL 2003。
 
 * Dan Klein和Christopher Manning：基于语料库的句法结构归纳：依赖和C模型
+
+## Translation done by
+
+Sourangshu Ghosh
