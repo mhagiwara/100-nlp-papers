@@ -198,3 +198,7 @@ circunscripción, ACL 2004.
 * Bill Keller, Rudi Lutz et al: Inducción evolutiva de gramáticas libres de contexto estocástico, Inducción evolutiva de gramáticas libres de contexto estocástico
 
 * Manish Sarkar, B. Yegnanarayana, Deepak Khemani et al: Un algoritmo de agrupamiento que utiliza un enfoque basado en la programación evolutiva, Pattern Recognition Letters
+
+## Translation done by
+
+Sourangshu Ghosh
