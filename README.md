@@ -197,3 +197,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Bill Keller, Rudi Lutz et al : Evolutionary induction of stochastic context free grammars ,Evolutionary induction of stochastic context free grammars
 
 * Manish Sarkar, B. Yegnanarayana ,Deepak Khemani et al : A clustering algorithm using an evolutionary programming-based approach, Pattern Recognition Letters
+
+## Translation done by 
+
+Sourangshu Ghosh
