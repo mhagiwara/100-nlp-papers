@@ -6,8 +6,6 @@ This list is originally based on the answers for a Quora question I posted years
 
 This list is far from complete or objective, and is evolving, as important papers are being published year after year. Please let me know via [pull requests](https://github.com/mhagiwara/100-nlp-papers/pulls) and [issues](https://github.com/mhagiwara/100-nlp-papers/issues) if anything is missing.
 
-Also, I didn't try to include links to original papers since it is a lot of work to keep dead links up to date. I'm sure you can find most (if not all) of the papers listed here via a single Google search by their titles.
-
 A paper doesn't have to be a peer-reviewed conference/journal paper to appear here. We also include tutorial/survey-style papers and blog posts that are often easier to understand than the original papers.
 
 ## Machine Learning
@@ -42,7 +40,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
 
-## Clustering & Word Embeddings
+* Yihan Liu et al. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), ICLR 2020.
+
+## Clustering & Word/Sentence Embeddings
 
 * Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
 
@@ -57,6 +57,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
 
 * Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.
+
+* Daniel Cer et al.: [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175), 2018.
 
 ## Topic Models
 
@@ -79,6 +81,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.
 
 * Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.
+
+* Alec Radford, et al.: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), 2018.
 
 ## Segmentation, Tagging, Parsing
 
