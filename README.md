@@ -22,6 +22,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Marco Tulio Ribeiro et al.: "Why Should I Trust You?": Explaining the Predictions of Any Classifier, KDD 2016.
 
+* Marco Tulio Ribeiro et al.: [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442/), ACL 2020.
+
 ## Neural Models
 
 * Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
@@ -151,6 +153,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Rico Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units. ACL 2016.
 
 * Yonghui Wu, et al.: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.
+
+* Melvin Johnson, et al.: [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558), 2016.
 
 * Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.
 
