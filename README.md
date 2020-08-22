@@ -42,7 +42,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
 
-* Yihan Liu et al. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), ICLR 2020.
+* Yihan Liu et al. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), 2020.
 
 ## Clustering & Word/Sentence Embeddings
 
