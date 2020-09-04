@@ -74,7 +74,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Stanley F. Chen and Joshua Goodman: An Empirical Study of Smoothing Techniques for Language Modeling, ACL 2006.
 
-* Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.
+* Yee Whye Teh: [A Hierarchical Bayesian Language Model based on Pitman-Yor Processes](http://dl.acm.org/ft_gateway.cfm?id=1220299&type=pdf), COLING/ACL 2006.
 
 * Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.
 
@@ -96,7 +96,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Michael Collins: Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms, EMNLP 2002.
 
-* Dan Klein and Christopher Manning: Accurate Unlexicalized Parsing, ACL 2003.
+* Dan Klein and Christopher Manning: [Accurate Unlexicalized Parsing](http://dl.acm.org/ft_gateway.cfm?id=1075150&type=pdf), ACL 2003.
 
 * Dan Klein and Christopher Manning: Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency, ACL 2004.
 
@@ -104,13 +104,13 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Ryan McDonald et al.: Non-Projective Dependency Parsing using Spanning-Tree Algorithms, EMNLP 2005.
 
-* Daniel Andor et al.: Globally Normalized Transition-Based Neural Networks, 2016.
+* Daniel Andor et al.: [Globally Normalized Transition-Based Neural Networks](https://www.aclweb.org/anthology/P16-1231.pdf), 2016.
 
 * Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.
 
 ## Sequential Labeling & Information Extraction
 
-* Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
+* Marti A. Hearst: [Automatic Acquisition of Hyponyms from Large Text Corpora](http://dl.acm.org/ft_gateway.cfm?id=992154&type=pdf), COLING 1992.
 
 * Collins and Singer: Unsupervised Models for Named Entity Classification, EMNLP 1999.
 
@@ -120,7 +120,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.
 
-* Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.
+* Xuezhe Ma and Eduard Hovy: [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://www.aclweb.org/anthology/P16-1101.pdf), ACL 2016.
 
 ## Machine Translation & Transliteration, Sequence-to-Sequence Models
 
@@ -134,7 +134,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002.
 
-* Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.
+* Philipp Koehn, Franz J Och, and Daniel Marcu: [Statistical Phrase-Based Translation](http://dl.acm.org/ft_gateway.cfm?id=1073462&type=pdf), NAACL 2003.
 
 * Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.
 
