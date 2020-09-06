@@ -178,6 +178,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.
 
+* Abigail See et al.: [Get To The Point: Summarization with Pointer-Generator Networks](https://www.aclweb.org/anthology/P17-1099/). ACL 2017.
+
 ## Question Answering and Machine Comprehension
 
 * Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.
