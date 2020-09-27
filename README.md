@@ -48,6 +48,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
 
+* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, 2003.
+
 * Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
 
 * Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
