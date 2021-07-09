@@ -64,27 +64,27 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Topic Models
 
-* Thomas Hofmann: Probabilistic Latent Semantic Indexing, SIGIR 1999.
+* [Thomas Hofmann: Probabilistic Latent Semantic Indexing, SIGIR 1999.](https://sigir.org/wp-content/uploads/2017/06/p211.pdf)
 
-* David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.
+* [David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
 ## Language Modeling
 
-* Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.
+* [Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.](https://arxiv.org/pdf/cs/0108005.pdf)
 
-* Stanley F. Chen and Joshua Goodman: An Empirical Study of Smoothing Techniques for Language Modeling, ACL 2006.
+* [Stanley F. Chen and Joshua Goodman: An Empirical Study of Smoothing Techniques for Language Modeling, ACL 2006.](https://dash.harvard.edu/bitstream/handle/1/25104739/tr-10-98.pdf;jsessionid=0F01586D4D238B2EC40A63094F9B50FC?sequence=1)
 
-* Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.
+* [Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.](http://www.gatsby.ucl.ac.uk/~ywteh/research/compling/acl2006.pdf)
 
-* Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.
+* [Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.](https://www.stats.ox.ac.uk/~teh/research/compling/hpylm.pdf)
 
-* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
+* [Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
-* Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.
+* [Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/KarparthyUNREASONABLY-EFFECTIVE-RNN-15.pdf)
 
-* Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.
+* [Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.](https://arxiv.org/pdf/1508.06615.pdf)
 
-* Alec Radford, et al.: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), 2018.
+* [Alec Radford, et al.: Language Models are Unsupervised Multitask Learners, 2018.](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 ## Segmentation, Tagging, Parsing
 
