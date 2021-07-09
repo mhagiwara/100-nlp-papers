@@ -110,55 +110,55 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Sequential Labeling & Information Extraction
 
-* Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
+* [Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.](https://aclanthology.org/C92-2082.pdf)
 
-* Collins and Singer: Unsupervised Models for Named Entity Classification, EMNLP 1999.
+* [Collins and Singer: Unsupervised Models for Named Entity Classification, EMNLP 1999.](https://aclanthology.org/W99-0613.pdf)
 
-* Patrick Pantel and Dekang Lin, Discovering Word Senses from Text, SIGKDD, 2002.
+* [Patrick Pantel and Dekang Lin, Discovering Word Senses from Text, SIGKDD, 2002.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.6056&rep=rep1&type=pdf)
 
-* Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.
+* [Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.](https://aclanthology.org/P09-1113.pdf)
 
-* Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.
+* [Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.](https://arxiv.org/pdf/1508.01991.pdf)
 
-* Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.
+* [Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.](https://arxiv.org/pdf/1603.01354.pdf)
 
 ## Machine Translation & Transliteration, Sequence-to-Sequence Models
 
-* Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.
+* [Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.](https://aclanthology.org/J90-2002.pdf)
 
-* Kevin Knight, Graehl Jonathan. Machine Transliteration. Computational Linguistics, 1992.
+* [Kevin Knight, Graehl Jonathan. Machine Transliteration. Computational Linguistics, 1992.](https://aclanthology.org/J98-4003.pdf)
 
-* Dekai Wu: Inversion Transduction Grammars and the Bilingual Parsing of Parallel Corpora, Computational Linguistics, 1997.
+* [Dekai Wu: Inversion Transduction Grammars and the Bilingual Parsing of Parallel Corpora, Computational Linguistics, 1997.](https://aclanthology.org/J97-3002.pdf)
 
-* Kevin Knight: A Statistical MT Tutorial Workbook, 1999.
+* [Kevin Knight: A Statistical MT Tutorial Workbook, 1999.](https://www.cis.uni-muenchen.de/~fraser/readinggroup/knight_1999_TUTORIAL_model3.pdf)
 
-* Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002.
+* [Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002.](https://aclanthology.org/P02-1040.pdf)
 
-* Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.
+* [Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.](https://aclanthology.org/N03-1017.pdf)
 
-* Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.
+* [Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.](https://aclanthology.org/J03-3002.pdf)
 
-* Franz J Och and Hermann Ney: The Alignment-Template Approach to Statistical Machine Translation, Computational Linguistics, 2004.
+* [Franz J Och and Hermann Ney: The Alignment-Template Approach to Statistical Machine Translation, Computational Linguistics, 2004.](https://aclanthology.org/J04-4002.pdf)
 
-* David Chiang. A Hierarchical Phrase-Based Model for Statistical Machine Translation, ACL 2005.
+* [David Chiang. A Hierarchical Phrase-Based Model for Statistical Machine Translation, ACL 2005.](https://aclanthology.org/P05-1033.pdf)
 
-* Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
+* [Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 
-* Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
+* [Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.](https://arxiv.org/pdf/1506.05869.pdf)
 
-* Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014.
+* [Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014.](https://arxiv.org/pdf/1409.0473.pdf)
 
-* Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, 2015.
+* [Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, 2015.](https://arxiv.org/pdf/1508.04025.pdf)
 
-* Rico Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units. ACL 2016.
+* [Rico Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units. ACL 2016.](https://arxiv.org/pdf/1508.07909.pdf)
 
-* Yonghui Wu, et al.: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.
+* [Yonghui Wu, et al.: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.](https://arxiv.org/pdf/1609.08144.pdf)
 
-* Melvin Johnson, et al.: [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558), 2016.
+* [Melvin Johnson, et al.: Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, 2016.](https://arxiv.org/abs/1611.04558)
 
-* Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.
+* [Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.](https://arxiv.org/pdf/1705.03122.pdf)
 
-* Ashish Vaswani, et al.: Attention Is All You Need, 2017.
+* [Ashish Vaswani, et al.: Attention Is All You Need, 2017.](https://arxiv.org/pdf/1706.03762.pdf)
 
 ## Coreference Resolution
 
