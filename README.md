@@ -170,28 +170,28 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Kevin Knight and Daniel Marcu: Summarization beyond sentence extraction. Artificial Intelligence 139, 2002.
 
-* James Clarke and Mirella Lapata: Modeling Compression with Discourse Constraints. EMNLP-CONLL 2007.
+* [James Clarke and Mirella Lapata: Modeling Compression with Discourse Constraints. EMNLP-CONLL 2007.](https://aclanthology.org/D07-1001.pdf)
 
-* Ryan McDonald: A Study of Global Inference Algorithms in Multi-Document Summarization, ECIR 2007.
+* [Ryan McDonald: A Study of Global Inference Algorithms in Multi-Document Summarization, ECIR 2007.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.4583&rep=rep1&type=pdf)
 
-* Wen-tau Yih et al.: Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
+* [Wen-tau Yih et al.: Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.](https://www.ijcai.org/Proceedings/07/Papers/287.pdf)
 
-* Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.
+* [Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.](https://aclanthology.org/D15-1044.pdf)
 
-* Abigail See et al.: [Get To The Point: Summarization with Pointer-Generator Networks](https://www.aclweb.org/anthology/P17-1099/). ACL 2017.
+* [Abigail See et al.: Get To The Point: Summarization with Pointer-Generator Networks. ACL 2017. ](https://www.aclweb.org/anthology/P17-1099/)
 
 ## Question Answering and Machine Comprehension
 
-* Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.
+* [Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.](https://arxiv.org/pdf/1606.05250.pdf)
 
-* Minjoon Soo et al.: Bi-Directional Attention Flow for Machine Comprehension. ICLR 2015.
+* [Minjoon Soo et al.: Bi-Directional Attention Flow for Machine Comprehension. ICLR 2015.](https://arxiv.org/pdf/1611.01603.pdf)
 
 ## Generation, Reinforcement Learning
 
-* Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.
+* [Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.](https://arxiv.org/pdf/1606.01541.pdf)
 
-* Marc’Aurelio Ranzato et al.: Sequence Level Training with Recurrent Neural Networks. ICLR 2016.
+* [Marc’Aurelio Ranzato et al.: Sequence Level Training with Recurrent Neural Networks. ICLR 2016.](https://arxiv.org/pdf/1511.06732.pdf)
 
-* Samuel R Bowman et al.: [Generating sentences from a continuous space](https://www.aclweb.org/anthology/K16-1002/), CoNLL 2016.
+* [Samuel R Bowman et al.: Generating sentences from a continuous space, CoNLL 2016.](https://www.aclweb.org/anthology/K16-1002/)
 
-* Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.
+* [Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/12-Yu-L-14344.pdf)
