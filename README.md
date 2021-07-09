@@ -26,23 +26,23 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Neural Models
 
-* Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
+* [Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.](https://papers.nips.cc/paper/2011/file/3335881e06d4d23091389226225e17c7-Paper.pdf)
 
-* Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
+* [Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 
-* Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.
+* [Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.](https://aclanthology.org/D13-1170.pdf)
 
-* Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
+* [Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.](https://proceedings.neurips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)
 
-* Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
+* [Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.](https://arxiv.org/pdf/1408.5882.pdf)
 
-* Christopher Olah: Understanding LSTM Networks, 2015.
+* [Christopher Olah: Understanding LSTM Networks, 2015.](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-* Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
+* [Matthew E. Peters, et al.: Deep contextualized word representations, 2018.](https://arxiv.org/pdf/1802.05365.pdf)
 
-* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
+* [Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.](https://arxiv.org/pdf/1810.04805.pdf)
 
-* Yihan Liu et al. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), 2020.
+* [Yihan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach, 2020.](https://arxiv.org/abs/1907.11692)
 
 ## Clustering & Word/Sentence Embeddings
 
