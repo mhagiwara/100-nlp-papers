@@ -46,21 +46,21 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Clustering & Word/Sentence Embeddings
 
-* Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
+* [Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.](https://www.cs.cmu.edu/~roni/11761/PreviousYearsHandouts/classlm.pdf)
 
-* Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
+* [Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.](https://arxiv.org/pdf/1301.3781.pdf)
 
-* Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
+* [Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
-* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
+* [Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.](https://arxiv.org/pdf/1405.4053.pdf)
 
-* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
+* [Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.](https://aclanthology.org/D14-1162.pdf)
 
-* Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
+* [Ryan Kiros, et al.: Skip-Thought Vectors, 2015.](https://arxiv.org/pdf/1506.06726.pdf)
 
-* Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.
+* [Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.](https://arxiv.org/pdf/1607.04606.pdf)
 
-* Daniel Cer et al.: [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175), 2018.
+* [Daniel Cer et al.: Universal Sentence Encoder, 2018.](https://arxiv.org/abs/1803.11175)
 
 ## Topic Models
 
