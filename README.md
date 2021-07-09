@@ -10,19 +10,19 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Machine Learning
 
-* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
+* [Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf)
 
-* John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
+* [John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
 
-* Charles Sutton, Andrew McCallum. An Introduction to Conditional Random Fields for Relational Learning.
+* [Charles Sutton, Andrew McCallum. An Introduction to Conditional Random Fields for Relational Learning.](https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf)
 
-* Kamal Nigam, et al.: Text Classification from Labeled and Unlabeled Documents using EM. Machine Learning, 1999.
+* [Kamal Nigam, et al.: Text Classification from Labeled and Unlabeled Documents using EM. Machine Learning, 1999.](https://www.ri.cmu.edu/pub_files/pub1/nigam_k_1999_1/nigam_k_1999_1.pdf)
 
-* Kevin Knight: Bayesian Inference with Tears, 2009.
+* [Kevin Knight: Bayesian Inference with Tears, 2009.](https://www.socsci.uci.edu/~lpearl/courses/readings/Knight2009_BayesWithTears.pdf)
 
-* Marco Tulio Ribeiro et al.: "Why Should I Trust You?": Explaining the Predictions of Any Classifier, KDD 2016.
+* [Marco Tulio Ribeiro et al.: "Why Should I Trust You?": Explaining the Predictions of Any Classifier, KDD 2016.](https://arxiv.org/pdf/1602.04938.pdf)
 
-* Marco Tulio Ribeiro et al.: [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442/), ACL 2020.
+* [Marco Tulio Ribeiro et al.: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://aclanthology.org/2020.acl-main.442.pdf)
 
 ## Neural Models
 
