@@ -162,9 +162,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Coreference Resolution
 
-* Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.
+* [Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.](https://aclanthology.org/P10-1142.pdf)
 
-* Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.
+* [Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.](https://arxiv.org/pdf/1707.07045.pdf)
 
 ## Automatic Text Summarization
 
