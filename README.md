@@ -88,25 +88,25 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Segmentation, Tagging, Parsing
 
-* Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.
+* [Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.](https://aclanthology.org/J93-1005.pdf)
 
-* Adwait Ratnaparkhi: A Maximum Entropy Model for Part-Of-Speech Tagging, EMNLP 1996.
+* [Adwait Ratnaparkhi: A Maximum Entropy Model for Part-Of-Speech Tagging, EMNLP 1996.](https://aclanthology.org/W96-0213.pdf)
 
-* Eugene Charniak: A Maximum-Entropy-Inspired Parser, NAACL 2000.
+* [Eugene Charniak: A Maximum-Entropy-Inspired Parser, NAACL 2000.](https://www.ling.upenn.edu/courses/cogs502/CharniakNAACL2000.pdf)
 
-* Michael Collins: Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms, EMNLP 2002.
+* [Michael Collins: Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms, EMNLP 2002.](https://aclanthology.org/W02-1001.pdf)
 
-* Dan Klein and Christopher Manning: Accurate Unlexicalized Parsing, ACL 2003.
+* [Dan Klein and Christopher Manning: Accurate Unlexicalized Parsing, ACL 2003.](https://nlp.stanford.edu/~manning/papers/unlexicalized-parsing.pdf)
 
-* Dan Klein and Christopher Manning: Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency, ACL 2004.
+* [Dan Klein and Christopher Manning: Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency, ACL 2004.](https://aclanthology.org/P04-1061.pdf)
 
-* Joakim Nivre and Mario Scholz: Deterministic Dependency Parsing of English Text, COLING 2004.
+* [Joakim Nivre and Mario Scholz: Deterministic Dependency Parsing of English Text, COLING 2004.](https://aclanthology.org/C04-1010.pdf)
 
-* Ryan McDonald et al.: Non-Projective Dependency Parsing using Spanning-Tree Algorithms, EMNLP 2005.
+* [Ryan McDonald et al.: Non-Projective Dependency Parsing using Spanning-Tree Algorithms, EMNLP 2005.](https://aclanthology.org/H05-1066.pdf)
 
-* Daniel Andor et al.: Globally Normalized Transition-Based Neural Networks, 2016.
+* [Daniel Andor et al.: Globally Normalized Transition-Based Neural Networks, 2016.](https://arxiv.org/pdf/1603.06042.pdf)
 
-* Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.
+* [Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.](https://proceedings.neurips.cc/paper/2015/file/277281aada22045c03945dcb2ca6f2ec-Paper.pdf)
 
 ## Sequential Labeling & Information Extraction
 
